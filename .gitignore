@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# nix specific
+nix-run.sh
+shell.nix
+
+# esp build dirs
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.ci
