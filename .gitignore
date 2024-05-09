@@ -57,6 +57,6 @@ shell.nix
 
 # esp build dirs
 build/
-sdkconfig
+
 sdkconfig.old
 sdkconfig.ci
